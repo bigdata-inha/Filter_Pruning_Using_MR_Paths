@@ -14,4 +14,5 @@ pytorch, python : pytorch 1.6 ↑, python 3.7 ↑
 package : numpy, os, torchsummaryX, tqdm, networkx
 
 # Experiments
+VGG16-BN / CIFAR-100 
 
