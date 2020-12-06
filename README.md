@@ -1,6 +1,6 @@
 # Structured pruning using max relevance paths from a pretrained neural networks
 
-### <comarison mehtod >
+<comarison mehtod >
   
 Thinet(option : greedy) paper : ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression(ICCV,2017)
 
