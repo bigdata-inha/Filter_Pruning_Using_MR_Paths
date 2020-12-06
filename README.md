@@ -16,3 +16,7 @@ package : numpy, os, torchsummaryX, tqdm, networkx
 # Experiments
 VGG16-BN / CIFAR-100 
 
+
+<img src="https://user-images.githubusercontent.com/46774714/101281372-dee3c280-3811-11eb-9a0a-f8164a120b7b.jpg" width="100%" height="90%">
+
+<img src="https://user-images.githubusercontent.com/46774714/101281328-a04e0800-3811-11eb-84f9-1d6df1a59085.jpg" width="100%" height="90%">
