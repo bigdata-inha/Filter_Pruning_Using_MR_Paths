@@ -1,2 +1,2 @@
-# Filter_Pruning_Using_MR_Paths
+# Structured pruning using max relevance paths from a pretrained n eural networks
 .
